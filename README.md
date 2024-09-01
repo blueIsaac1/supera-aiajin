@@ -24,7 +24,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/seu-repositorio.git
+    git clone https://github.com/blueIsaac1/supera-aiajin.git
     cd seu-repositorio
     ```
 
@@ -39,7 +39,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local:
 3. **Instale as dependências:**
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r req.txt
     ```
 
 4. **Aplique as migrações do banco de dados:**
