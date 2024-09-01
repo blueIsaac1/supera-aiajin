@@ -8,8 +8,6 @@ Bem-vindo ao projeto Django com SQLite3! Este é um projeto de exemplo que utili
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição
 
